@@ -1,11 +1,16 @@
 ! Title: uO_filters
 
+indianexpress.com##.ie-adsbox
 timesofindia.indiatimes.com##.cmtwrapper
 ndtv.com##.ads_tb-c
 ndtv.com##.trc_related_container
+ndtv.com##.tbl-floating-unit
+www.news18.com##.stky-ad-footer
 www.timesnownews.com##.ad-600-h
 www.timesnownews.com##.sponsorAd
 www.aajtak.in##.stoybday-ad
+www.hindustantimes.com##.adHeight313
+www.livemint.com##.taboolaHeight
 
 ##.rtl-shopping
 ###shoppingWidget
